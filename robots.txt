@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://lanalater.github.io/lanalater.lanalater
+Sitemap: https://lanalater.github.io/app/lanalater.lanalater
+Sitemap: https://lanalater.github.io/assets/lanalater.lanalater
+Sitemap: https://lanalater.github.io/css/lanalater.lanalater
+Sitemap: https://lanalater.github.io/includes/lanalater.lanalater
+Sitemap: https://lanalater.github.io/item/lanalater.lanalater
+Sitemap: https://lanalater.github.io/src/lanalater.lanalater
